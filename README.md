@@ -1,4 +1,6 @@
-test or wtv
+![](https://files.catbox.moe/x68ftd.png)
+![](https://komarev.com/ghpvc/?username=halbong&base=10)
+hi.. will make pretty later...
 
 <!--
 **yaoibot/yaoibot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
